@@ -151,9 +151,9 @@ def xxr():
     print(logo)
     print(f'[{xr}^{x}] Example>: {xr}019,017,018,92302,92301,91778{x}')
     print(" ══════════════════════════════════════════")
-    ra1 = '017'
-    rb2 = '017'
-    rc3 = '017'
+    rk1 = '017'
+    rk2 = '017'
+    rk3 = '017'
     code = random.choice([rk1,rk2,rk3])
                   # input(f' [{xr}■{x}] Choose : ')
     os.system('clear')
