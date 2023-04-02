@@ -153,7 +153,7 @@ def xxr():
     print(" ══════════════════════════════════════════")
     rk1 = '0171'
     rk2 = '0172'
-    rk3 = '0175'
+    rk3 = '017'
     rk4 = '017'
     code = random.choice([rk1,rk2,rk3])                      # input(f' [{xr}■{x}] Choose : ')
     os.system('clear')
